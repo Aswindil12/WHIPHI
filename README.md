@@ -5,7 +5,7 @@
 <img title="Support" src="https://img.shields.io/badge/Support-No-red">
 </p>
 
-## A franken baby of [M1z23R/ESP8266-EvilTwin](https://github.com/M1z23R/ESP8266-EvilTwin) and [adamff1/ESP8266-Captive-Portal](https://github.com/adamff1/ESP8266-Captive-Portal).
+## A franken baby of [PhiSiFi/ESP8266-EvilTwin](https://github.com/p3tr0s/PhiSiFi/),[M1z23R/ESP8266-EvilTwin](https://github.com/M1z23R/ESP8266-EvilTwin) and [adamff1/ESP8266-Captive-Portal](https://github.com/adamff1/ESP8266-Captive-Portal).
 
 <img src="https://github.com/Aswindil12/WHIPHI/blob/main/WIPHI.jpg?raw=true"></img><br>
 
@@ -48,9 +48,4 @@ Please check the legal regulations in your country before using it.
 * https://github.com/SpacehuhnTech/esp8266_deauther
 * https://github.com/M1z23R/ESP8266-EvilTwin
 * https://github.com/adamff1/ESP8266-Captive-Portal
-
-## License 
-This software is licensed under the [MIT License](https://opensource.org/licenses/MIT).
-
-## Donation / Support / Appreciation
-<a href="https://www.buymeacoffee.com/p3tr0s"><img src="https://static.vecteezy.com/system/resources/previews/025/222/157/original/shawarma-sandwich-isolated-on-transparent-background-png.png"></a>
+* https://github.com/p3tr0s/PhiSiFi/
