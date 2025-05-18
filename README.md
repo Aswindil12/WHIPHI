@@ -1,9 +1,12 @@
 # WIPHI
 <p align="center">
-<a href="https://github.com/Aswindil12/WHIPHI/blob/main/WIPHI.jpg"><img title="Tool" src="https://img.shields.io/badge/Tool-PhiSiFi-green"></a>
+<a href="https://github.com/Aswindil12/WHIPHI">
+  <img src="https://github.com/Aswindil12/WHIPHI/blob/main/WIPHI.jpg?raw=true" alt="WIPHI Tool Image" width="150">
+</a>
 <img title="Version" src="https://img.shields.io/badge/Version-1.0-green">
 <img title="Support" src="https://img.shields.io/badge/Support-No-red">
 </p>
+
 
 ## A franken baby of [M1z23R/ESP8266-EvilTwin](https://github.com/M1z23R/ESP8266-EvilTwin) and [adamff1/ESP8266-Captive-Portal](https://github.com/adamff1/ESP8266-Captive-Portal).
 
